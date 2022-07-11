@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> username=filmon-goitom" alt="filmon-goitom" /></a> </p>
+
 
 - 🔭 I’m currently working on Fedasil **volunteer interpreter**
 
@@ -22,12 +22,12 @@
 <p align="left">
 <a href="https://fb.com/philipo goitom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="philipo goitom" height="30" width="40" /></a>
 <a href="https://instagram.com/philipo-gi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="philipo-gi" height="30" width="40" /></a>
-  <img align="right" width="300" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=filmon-goitom&" alt="filmon-goitom" />
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="right" width="300" height="150" src="https://github-readme-stats.vercel.app/api?username=filmon-goitom&show_icons=true&locale=en" alt="filmon-goitom" /></p>
+
 
 
